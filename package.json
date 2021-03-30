@@ -23,8 +23,7 @@
     "yarn": "^1.22.x"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "precommit": "yarn eslint --ignore-path .gitignore . --fix"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
     "eslint": "^7.23.0",
