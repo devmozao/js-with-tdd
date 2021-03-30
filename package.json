@@ -1,0 +1,23 @@
+{
+  "name": "js-with-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devMozao/js-with-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Diogo 'Mozão' Fonseca <devmozao@outlook.com> (https://github.com/devMozao)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devMozao/js-with-tdd/issues"
+  },
+  "homepage": "https://github.com/devMozao/js-with-tdd#readme"
+}
